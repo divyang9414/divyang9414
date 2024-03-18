@@ -1,6 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=divyang9414.divyang9414" />
    <h1 align="center">
-        <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&color=#fbbc04&duration=4000&lines=Hi+There!+👋;+I'm+Divyang+Padhiyar..!!;" />
+        <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&color=fbbc04&duration=4000&lines=Hi+There!+👋;+I'm+Divyang+Padhiyar..!!;" />
     </h1>
 <h3 align="center">A passionate frontend developer from India India</h3>
 
