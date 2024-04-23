@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [divyang9414](divyang9414)
 
-- 💬 Ask me about *About my self*
+- 💬 Ask me about *About my self* <a href="https://linkedin.com/in/divyang9414" target="blank">@ Linked In</a>
 
 - 📫 How to reach me *divyang9414@gmail.com*
 </br>
