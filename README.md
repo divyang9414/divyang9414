@@ -1,7 +1,7 @@
 <img align="right" src="https://media.licdn.com/dms/image/D4D16AQEd6zWUHFp7PA/profile-displaybackgroundimage-shrink_350_1400/0/1713877900529?e=1723075200&v=beta&t=9ZFiUkM5h1RD4PrC-FZHkgkI84ma7UVBEKo-7WS6dxg" />
    <h1 align="between">
         <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&color=fbbc04&duration=4000&lines=Hi+There!+👋;+I'm+Divyang+Padhiyar..!!;" />
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=divyang9414.divyang9414" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=divyang9414.divyang9414?width=500&height=70" />
     </h1>
 <h3 align="center">"A passionate Full Stack Developer from Gujarat, India."</h3>
 
