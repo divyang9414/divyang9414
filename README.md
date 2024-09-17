@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning *React js, NodeJS, MongoDB*
 
-- 👨‍💻 My all projects are available at <a href="https://my-portfolio-divyangs-projects.vercel.app/" target="blank">My Portfolio</a>
+- 👨‍💻 My all projects are available on <a href="https://my-portfolio-divyangs-projects.vercel.app/" target="blank">My Portfolio</a>
 
 - 💬 Ask me about *About my self* <a href="https://linkedin.com/in/divyang9414" target="blank">@Linked In</a>
 
